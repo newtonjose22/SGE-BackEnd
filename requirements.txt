@@ -1,0 +1,11 @@
+fastapi[all] 
+sqlalchemy 
+psycopg2-binary 
+alembi
+ python-jose 
+passlib[bcrypt] 
+python-dotenv 
+httpx 
+pytest 
+redis 
+celery
